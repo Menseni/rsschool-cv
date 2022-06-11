@@ -1,1 +1,1 @@
-https://menseni.github.io/rsschool-cv/cv
+https://menseni.github.io/rsschool-cv/
